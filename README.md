@@ -1,7 +1,7 @@
 # Residential Real Estate Price Prediction Project
 
 <H3>Welcome to the Residential Real Estate Price Prediction project!</H3>
-In this project my goal is to determine housing market prices based on various features such as square footage, number of bedrooms, and more. Through predictive modeling, data analysis, and model evaluation, I aim to provide valuable insights for informed investment decisions in the dynamic real estate market.
+In this project my goal is to determine housing market prices based on various features such as square footage, number of bedrooms, and more. Through predictive modelling, data analysis, and model evaluation, I aim to provide valuable insights for informed investment decisions in the dynamic real estate market.
 
 # Key Features
 <H4>Predictive Modeling:</H4> Utilizing various machine learning algorithms, I aim to build models that accurately predict housing prices based on given features.
