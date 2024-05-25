@@ -9,5 +9,5 @@ In this project my goal is to determine housing market prices based on various f
 <H4>Model Evaluation:</H4> We rigorously evaluate the performance of our models using appropriate metrics to ensure reliability and accuracy in our predictions.
 <H4>Insight Generation:</H4> Beyond prediction, we seek to extract actionable insights from our analysis, providing valuable information to stakeholders in the real estate investment domain.
 
-#Contributions
+# Contributions
 I welcome contributions from the community to enhance this project further. Whether it's optimizing existing models, exploring additional features, or improving documentation, your contributions are valuable in advancing our understanding of residential real estate markets.
